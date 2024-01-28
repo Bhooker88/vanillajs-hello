@@ -10,32 +10,32 @@ window.onload = () => {
 
 let generateExcuse = () => {
   let person = [
-    "A dinosaur",
-    "A clown",
-    "A shark",
-    "My dog",
-    "A racoon",
-    "The Ninja Turtles",
-    "An Alien",
-    "A baby"
+    "A dinosaur ",
+    "A clown ",
+    "A shark ",
+    "My dog ",
+    "A racoon ",
+    "The Ninja Turtles ",
+    "An Alien ",
+    "A baby "
   ];
   let action = [
-    "bit my",
-    "stole my",
-    "set fire to my",
-    "destroyed my",
-    "ran over my",
-    "yelled at my"
+    "bit my ",
+    "stole my ",
+    "set fire to my ",
+    "destroyed my ",
+    "ran over my ",
+    "yelled at my "
   ];
   let posession = [
-    "arm",
-    "car",
-    "phone",
-    "house",
-    "laptop",
-    "spouse",
-    "children",
-    "clothes"
+    "arm ",
+    "car ",
+    "phone ",
+    "house ",
+    "laptop ",
+    "spouse ",
+    "children ",
+    "clothes "
   ];
   let time = [
     "before I could leave",
